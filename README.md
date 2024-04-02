@@ -14,7 +14,7 @@
 
 
 - Upload your image to home screen
-- Like and Comment photos
+- Comment photos
 - Authentication with Firebase
   
 ## 📸 Screenshots
